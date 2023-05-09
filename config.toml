@@ -1,0 +1,3 @@
+baseURL = 'https://www.kubecamp.io'
+languageCode = 'en-us'
+title = 'KubeCamp.io'
