@@ -17,7 +17,7 @@ With a cap of only **8 participants**, you'll benefit from personalized attentio
 
 **Registration of interest**
 
-<form name="contact" method="POST" netlify style="margin: 0 auto; max-width: 500px;">
+<form name="athens-sep-23" method="POST" netlify style="margin: 0 auto; max-width: 500px;">
   <p style="margin-bottom: 10px;">
     <label>Your Name: <input type="text" name="name" style="width: 100%;" /></label>
   </p>
