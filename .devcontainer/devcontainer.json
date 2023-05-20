@@ -1,0 +1,23 @@
+{
+    "name": "Hugo",
+    "image": "hugomods/hugo:exts-0.111.3",
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "editor.tabSize": 4,
+                "editor.insertSpaces": true,
+                "editor.detectIndentation": false
+            },
+            "extensions": [
+                "davidanson.vscode-markdownlint",
+                "bat67.markdown-extension-pack",
+                "shardulm94.trailing-spaces"
+            ]
+        }
+    },
+    "forwardPorts": [
+        1313
+    ],
+    "postCreateCommand": "git config --global --add safe.directory /workspaces/kubecamp.io && git submodule update --init --recursive && hugo server -bind 0.0.0.0 -p 1313"
+    // "remoteUser": "vscode"
+}
