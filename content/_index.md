@@ -2,8 +2,10 @@
 framed: true
 ---
 
-KubeCamp means Kubernetes Bootcamp!
+Welcome to KubeCamp.io – Where Kubernetes Mastery Begins!
 
-We believe in the business and personal-development value of a well-organized, instructor-led, hands-on bootcamp, especially with a complex system like Kubernetes. This is why we created KubeCamp, a 2-days, on-site workshop-like bootcamp.
+Ready to unlock the secrets of Kubernetes? We've crafted a high-intensity, 2-day bootcamp designed to accelerate your learning. KubeCamp.io combines hands-on, practical training with expert instruction to empower you with Kubernetes know-how.
 
-Ideal audience is power developers and administrators. The first day is oriented more towards beginners to Kubernetes in order to help you build a good foundation of understanding, and the second day covers more advanced topics mostly on administration.
+Our bootcamp is built for software developers and system administrators. The first day provides a solid introduction to Kubernetes, ideal for those starting out. On day two, we delve into advanced topics tailored to administrators.
+
+Whether you're a seasoned professional or a tech leader looking to advance your team's capabilities, KubeCamp.io is the perfect launchpad. Browse our upcoming events, and join us for a transformative experience at a KubeCamp near you. Your journey to Kubernetes expertise starts here!
