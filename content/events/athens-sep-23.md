@@ -38,6 +38,7 @@ With a cap of only **8 participants**, you'll benefit from personalized attentio
     <label>Any comments useful to make your participation even smoother: 
       <input type="text" name="comments" style="width: 100%;" /></label>
   </p>
+  <div data-netlify-recaptcha="true"></div>
   <p style="text-align: center;">
     <button type="submit" style="padding: 10px 20px;">I am interested!</button>
   </p>
