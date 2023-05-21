@@ -1,6 +1,12 @@
 {
-    "name": "Hugo",
-    "image": "hugomods/hugo:exts-0.111.3",
+    "name": "Kubecamp",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".",
+        "args": {
+            "USERNAME": "vscode"
+        }
+    },
     "customizations": {
         "vscode": {
             "settings": {
@@ -18,6 +24,7 @@
     "forwardPorts": [
         1313
     ],
-    "postCreateCommand": "git config --global --add safe.directory /workspaces/kubecamp.io && git submodule update --init --recursive && hugo server -bind 0.0.0.0 -p 1313"
-    // "remoteUser": "vscode"
+    "postCreateCommand": "git submodule update --init --recursive && hugo server -bind 0.0.0.0 -p 1313",
+    // https://code.visualstudio.com/remote/advancedcontainers/add-nonroot-user
+    "remoteUser": "vscode"
 }
