@@ -13,15 +13,15 @@ framed: false
 ### 1. Containers and Kubernetes
    * Containers vs VMs
    * Understanding Docker/Container DNA & its limitations
-    * Immutability
-    * Ephemeral identity/network identity
-    * Singular execution unit - 1 process per container
+   * Immutability
+   * Ephemeral identity/network identity
+   * Singular execution unit - 1 process per container
    * Solving a modern web application concerns without an orchestrator
      * Networking
      * Loadbalancing - Exposing to the outside world
      * Storage & backups
      * Security:
-       * Common*sense security concerns
+       * Common-sense security concerns
        * Compliance security concerns
      * Configuration management
      * Change management - Rollout process
