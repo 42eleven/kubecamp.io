@@ -17,7 +17,8 @@
             "extensions": [
                 "davidanson.vscode-markdownlint",
                 "bat67.markdown-extension-pack",
-                "shardulm94.trailing-spaces"
+                "shardulm94.trailing-spaces",
+                "github.vscode-pull-request-github"
             ]
         }
     },
