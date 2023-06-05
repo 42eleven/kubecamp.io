@@ -26,7 +26,7 @@ framed: false
      * Configuration management
      * Change management - Rollout process
      * Logging, monitoring and observability
-     * Long*term maintenance
+     * Long-term maintenance
    * The tipping point: understanding the threshold of complexity for introducing K8s
      * Technology implications:
        * Traditional cloud architecture vs the platform model.
@@ -52,8 +52,8 @@ framed: false
    * State: ETCD
    * CRUD API: API server
    * Scheduler
-   * Reconciliation: Controller*manager
-   * Other needed add*ons
+   * Reconciliation: Controller-manager
+   * Other needed add-ons
      * Network & CNIs
      * Internal DNS
      * Kubelet service
@@ -152,7 +152,7 @@ framed: false
    * Stateless workloads
 ### Networking
    * Understanding networking requirements
-   * Routing traffic with kube*proxy
+   * Routing traffic with kube-proxy
    * Service types
    * Service discovery
    * Service meshes
@@ -175,7 +175,7 @@ framed: false
      1. Velero
      2. Vendor-specific solutions
    * Security
-    * Vulnerability management
+     * Vulnerability management
      * Trivy
    * Intrusion detection
      * Falco
@@ -188,14 +188,14 @@ framed: false
    * Limiting attack surface
    * `seccomp`
    * Certificate management & rotation
-     * Cert*manager
+     * Cert-manager
 ### Capacity planning
    * Horizontal scaling
    * Vertical scaling
-   * Metrics*based scaling
+   * Metrics-based scaling
    * LimitRanges
    * Serverless workloads
-   * Functions*as*a*Service
+   * Functions-as-a-Service
 ### Operators
    * Anatomy of operators
    * Development options
