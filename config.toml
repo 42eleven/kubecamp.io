@@ -19,7 +19,7 @@ theme = "terminal"
   themeColor = "blue"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -79,3 +79,7 @@ theme = "terminal"
         identifier = "instructors"
         name = "Instructors"
         url = "/pages/instructors"
+    [[languages.en.menu.main]]
+        identifier = "faq"
+        name = "FAQ"
+        url = "/pages/faq"
