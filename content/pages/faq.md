@@ -26,3 +26,13 @@ It's intentionally kept to a very low number of attendees, specifically **8**. T
 These are included in the price and we'll cater for any alergies or special meal requirements. Just let us know in the commends when making your booking. 
 
 Coffee and snacks are available during the day.
+
+## How can I book a seat? 
+
+Just follow the payment link that we have posted in each announced event page! You can checkout and guarantee your site straight away.
+
+If you are purchasing as a company, there is also payment possibility via SEPA transfer - get in touch with us at `hej [at] 42eleven [dot] com` for the details!
+
+## How can I get in touch with the organizers?
+
+We'll be happy to receive your email with feedback, special requests or just about anything at `hej [at] 42eleven [dot] com`!
