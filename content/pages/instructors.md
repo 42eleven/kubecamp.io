@@ -6,7 +6,7 @@ title: Instructors
 
 ![Ioannis](/img/id.jpeg?width=250px&height=250px)
 
-Ioannis Dritsas, aka dreamPathsProjekt, since discovering the world wide web, drew the parallels between the ancient "Aboriginal routes of dreams" (Dream Paths) and the digital connected world of abstract thought and collective soul that was the early web.
+[Ioannis Dritsas](https://www.linkedin.com/in/ioannis-dritsas-27270a140/), aka [dreamPathsProjekt](https://github.com/dreampathsprojekt), since discovering the world wide web, drew the parallels between the ancient "Aboriginal routes of dreams" (Dream Paths) and the digital connected world of abstract thought and collective soul that was the early web.
 
 Started his early career as a web back-end software engineer, before discovering Docker, Kubernetes and the world of containers in 2017. Since then he has been involved in multiple roles and positions, ranging from cloud-infrastructure software engineering, to SRE and back.
 
@@ -19,7 +19,7 @@ His specialization and interests are deeply rooted in Kubernetes and the CNCF la
 
 ![Kostas](/img/kl.jpeg?width=250px&height=250px)
 
-Konstantinos Livieratos, known for his expertise in cloud software, has been intrigued by the world of technology since his early years, viewing the digital landscape as a universe of endless possibilities and discovery.
+[Konstantinos Livieratos](https://www.linkedin.com/in/konstantinoslivieratos/), or [koslib](https://twitter.com/koslib), known for his expertise in cloud software, has been intrigued by the world of technology since his early years, viewing the digital landscape as a universe of endless possibilities and discovery.
 
 His professional journey began as a System Administrator, where he honed his skills in server management and network security. His curiosity and dedication led him to diverse roles in software engineering always with a focus on blending software and infrastructure.
 
