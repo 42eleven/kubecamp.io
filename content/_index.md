@@ -2,7 +2,13 @@
 framed: true
 ---
 
-# Welcome to KubeCamp.io
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Grandiflora+One&display=swap');
+</style>
+
+<div class="customlogo"><span style="color:#f95959";>K</span><span style="color:#455d7a";>ube</span><span style="color:#f95959";>C</span><span style="color:#455d7a";>amp</span>.<span style="color:#f95959";>io</span></div>
+
+# Welcome
 
 Ready to unlock the secrets of Kubernetes? We've crafted a high-intensity, 2-day bootcamp designed to accelerate your learning.
 [KubeCamp.io](https://kubecamp.io/) combines hands-on, practical training with expert instruction and in-depth coverage of topics to empower you with Kubernetes know-how.
