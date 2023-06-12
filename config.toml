@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'KubeCamp.io'
 theme = "terminal"
 
+enableRobotsTXT = true
 [sitemap]
   changefreq = "always"
   filename = 'sitemap.xml'
