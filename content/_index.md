@@ -2,7 +2,7 @@
 framed: true
 ---
 
-Welcome to KubeCamp.io – Where Kubernetes Mastery Begins!
+# Welcome to KubeCamp.io
 
 Ready to unlock the secrets of Kubernetes? We've crafted a high-intensity, 2-day bootcamp designed to accelerate your learning.
 [KubeCamp.io](https://kubecamp.io/) combines hands-on, practical training with expert instruction and in-depth coverage of topics to empower you with Kubernetes know-how.
