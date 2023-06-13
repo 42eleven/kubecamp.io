@@ -6,7 +6,7 @@ framed: true
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Grandiflora+One&display=swap');
 </style>
 
-<div class="customlogo"><span style="color:#f95959";>K</span><span style="color:#455d7a";>ube</span><span style="color:#f95959";>C</span><span style="color:#455d7a";>amp</span>.<span style="color:#f95959";>io</span></div>
+<div class="customlogo">KubeCamp</div>
 
 # Welcome
 
